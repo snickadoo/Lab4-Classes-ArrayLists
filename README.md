@@ -1,7 +1,6 @@
 **COMP167 Laboratory 4 -- Classes and ArrayLists**
 
-![](./media/media/image1.png){width="2.811411854768154in"
-height="2.572024278215223in"}As with Lab2, you will complete a simple
+![](./media/image1.png)As with Lab2, you will complete a simple
 mock mp3 player in this lab. The first step will be to create two
 classes that will enable you to manipulate the song data. I have the
 code for the GUI so if you implement the classes according to the
